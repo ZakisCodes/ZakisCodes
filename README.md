@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+ My name is Zakin Abdul Rahman and I'm 18 years old.
+ 🔭 I’m a Data Analyst
+ 🌱 I’m currently doing SQL Projects
 <!--
 **ZakisCodes/ZakisCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
