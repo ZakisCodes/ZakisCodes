@@ -1,17 +1,17 @@
 ### Hi there 👋  
-I'm **Zakin Abdul Rahman**, and I'm 18 years old.
+I'm **Zakin Abdul Rahman**, and I'm 20 years old.
 
-🔭 I'm a **Backend Developer** & **Data Analyst**  
-🌱 Currently exploring **SQL**, **APIs**, and **backend frameworks** like **Django** and **FastAPI**  
-🛠️ Skilled in **Python**, **SQL**, and working with **databases** and **data pipelines**  
-📊 I have a strong foundation in **data analysis**, and I love solving real-world problems with code.  
-🌐 Passionate about building scalable and efficient backend systems.
+🔭 I'm a **Backend Developer**  
+🌱 Currently exploring **Google ADK Framework**, **APIs**, and the backend framework **FastAPI**  
+🛠️ Skilled in **Python**, **HTML**, **CSS**, **JavaScript**, and **SQL** – with experience working on **databases** and **data pipelines**  
+🌐 Passionate about building **scalable** and **efficient** backend systems, with a focus on performance-driven solutions.
 
 ---
 
 ### 🚀 What I’m working on:
 - Building and deploying **RESTful APIs**
 - Learning more about **system design** and **backend architecture**
+- Exploring **AI Agents** for multipurpose workflows
 
 ---
 
@@ -19,9 +19,14 @@ I'm **Zakin Abdul Rahman**, and I'm 18 years old.
 - Python backend development
 - Working with APIs and databases
 - Full stack development
+- AI Agent workflows
 
 ---
 
 ### 🤝 Let’s connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace with your URL)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/zakin-abdul-a3991a263)
 - 📫 Reach me at: **zakinabdul.tech@gmail.com**
+
+---
+
+⚡ **Fun fact:** I enjoy designing solutions that not only work — but scale smartly and efficiently 🚀
