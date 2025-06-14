@@ -12,6 +12,7 @@ I'm **Zakin Abdul Rahman**, and I'm 20 years old.
 - Building and deploying **RESTful APIs**
 - Learning more about **system design** and **backend architecture**
 - Exploring **AI Agents** for multipurpose workflows
+- Diving into **Qiskit** and **quantum computing** as a personal passion project
 
 ---
 
