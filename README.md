@@ -30,4 +30,4 @@ I'm **Zakin Abdul Rahman**, and I'm 20 years old.
 
 ---
 
-⚡ **Fun fact:** I enjoy designing solutions that not only work — but scale smartly and efficiently 🚀
+⚡ **Fun fact:** I enjoy designing solutions that not only work but scale smartly and efficiently 🚀
